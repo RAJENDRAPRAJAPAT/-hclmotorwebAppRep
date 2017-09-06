@@ -1,0 +1,16 @@
+[{"Id": 1, "StationName": "Station A ","PlantId" :"1", "Status":"Green","RI":"4" },
+{ "Id": 2, "StationName": "Station B","PlantId" :"1", "Status":"Red","RI":"5" },
+{ "Id": 3, "StationName": "Station C","PlantId" :"1", "Status":"Green" ,"RI":"2"},
+{ "Id": 4, "StationName": "Station D","PlantId" :"1", "Status":"Amber","RI":"1" },
+{ "Id": 5, "StationName": "Station E" ,"PlantId" :"1", "Status":"Green" ,"RI":"3"},
+
+
+    {"Id": 6, "StationName": "Tower A","PlantId" :"2", "Status":"Green","RI":"4" },
+    { "Id": 7, "StationName": "Tower B","PlantId" :"2", "Status":"Red","RI":"5" },
+    { "Id": 8, "StationName": "Tower C","PlantId" :"2", "Status":"Green" ,"RI":"2"},
+    { "Id": 9, "StationName": "Tower D","PlantId" :"2", "Status":"Amber","RI":"1" },
+    
+    { "Id": 10, "StationName": "Tower E" ,"PlantId" :"2", "Status":"Green" ,"RI":"3"},
+    { "Id": 11, "StationName": "Station F" ,"PlantId" :"3", "Status":"Red","RI":"4" },
+    { "Id": 12, "StationName": "Station G" ,"PlantId" :"3", "Status":"Red","RI":"2" }
+]
